@@ -2,8 +2,6 @@
 
 Vamos programar !!!
 
-![Image](https://github.com/user-attachments/assets/806279a2-1aba-4e5b-8f6a-e7090d6e11c8)
-
 <img src="https://github.com/user-attachments/assets/806279a2-1aba-4e5b-8f6a-e7090d6e11c8" width="300px" />
   
 <a href="https://instagram.com/GFMB17" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
