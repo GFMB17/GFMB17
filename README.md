@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá, eu sou Gabriel Barros.
+
+Vamos programar !!!
+
+![Image](https://github.com/user-attachments/assets/b5958651-5548-448c-842a-05a3194348e2.jpeg)
+
+
 
 <!--
 **GFMB17/GFMB17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
